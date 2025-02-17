@@ -1,0 +1,1207 @@
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.Interfaces.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AboutBox.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AT_Tools.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CH_PrivateChat.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Invoice.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Sale.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager_Contact.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerBalance.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerHistory.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_ItemFinder.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_LinkedSaleSelector.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ISN_IssuedNote.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_ControlTicket.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login_NetworkSettings.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.NotificationCenter.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_ContactSelector.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_LinkEstimate.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_RepairOrder.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_OrderUpdate.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_ProgressManager.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input_InputSearcher.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_InvoiceManager.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Concept.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Product.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_QuickSearch.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_CurrencyConverter.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product_AutoFormat.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_PercentageAdjustment.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.EX_Expense.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_Input.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_InputHistory.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice_PurchaseOrder.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Concept.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_PurchaseOrder.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_Payment.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_PurchaseInvoice.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager_Contact.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_CurrentAccount.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_RecordShipment.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice_Sale.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_CalendarDayView.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_ContactSelector.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory_DetailedHistory.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNoteManager.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNote.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Concept.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Estimate.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_Customer.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_MailPreview.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ManageAttachments.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_Provider.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_TextBox.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_HtmlEditor.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertCustomerInformation.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertProviderInformation.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_Task.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ViewSettings.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Main.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_Product.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Properties.Resources.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Sale.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_Settings.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_TaskSelector.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TR_TechReport.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.GenerateResource.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CopyComplete
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.exe
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.Interfaces.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AboutBox.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AT_Tools.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CH_PrivateChat.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Invoice.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Sale.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager_Contact.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerBalance.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerHistory.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_ItemFinder.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_LinkedSaleSelector.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ISN_IssuedNote.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_ControlTicket.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login_NetworkSettings.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.NotificationCenter.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_ContactSelector.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_LinkEstimate.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_RepairOrder.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_OrderUpdate.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_ProgressManager.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input_InputSearcher.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_InvoiceManager.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Concept.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Product.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_QuickSearch.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_CurrencyConverter.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product_AutoFormat.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_PercentageAdjustment.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.EX_Expense.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_Input.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_InputHistory.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice_PurchaseOrder.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Concept.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_PurchaseOrder.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_Payment.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_PurchaseInvoice.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager_Contact.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_CurrentAccount.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_RecordShipment.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice_Sale.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_CalendarDayView.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_ContactSelector.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory_DetailedHistory.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNoteManager.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNote.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Concept.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Estimate.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_Customer.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_MailPreview.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ManageAttachments.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_Provider.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_TextBox.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_HtmlEditor.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertCustomerInformation.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertProviderInformation.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_Task.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ViewSettings.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Main.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_Product.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Properties.Resources.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Sale.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_Settings.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_TaskSelector.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TR_TechReport.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.GenerateResource.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.G.DA366080.Up2Date
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.exe
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.AssemblyReference.cache
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AboutBox.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AT_Tools.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CH_PrivateChat.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Invoice.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Sale.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager_Contact.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerBalance.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerHistory.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_ItemFinder.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_LinkedSaleSelector.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormRegistroOrdenSellos.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormAddUsersToGroup.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormChatWindow.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateGroupChat.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormEditGroupName.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormGroupChats.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormIngresoEgreso.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormTipoCheque.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ISN_IssuedNote.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_ControlTicket.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login_NetworkSettings.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.NotificationCenter.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_ContactSelector.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_LinkEstimate.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_RepairOrder.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_OrderUpdate.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_ProgressManager.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input_InputSearcher.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_InvoiceManager.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Concept.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Product.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_QuickSearch.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_CurrencyConverter.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product_AutoFormat.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_PercentageAdjustment.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.EX_Expense.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_Input.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_InputHistory.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice_PurchaseOrder.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Concept.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_PurchaseOrder.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_Payment.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_PurchaseInvoice.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager_Contact.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_CurrentAccount.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_RecordShipment.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice_Sale.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_CalendarDayView.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_ContactSelector.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory_DetailedHistory.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNoteManager.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNote.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Concept.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Estimate.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_Customer.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_MailPreview.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ManageAttachments.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_Provider.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_TextBox.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_HtmlEditor.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertCustomerInformation.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertProviderInformation.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_Task.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ViewSettings.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Main.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_Product.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Properties.Resources.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Sale.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_Settings.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_TaskSelector.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TR_TechReport.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.GenerateResource.cache
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CoreCompileInputs.cache
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.exe
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe.config
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ClosedXML.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.Interfaces.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.System.Drawing.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ExcelNumberFormat.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Irony.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\SixLabors.Fonts.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Packaging.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\XLParser.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.dll
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll.config
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll.config
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll.config
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ClosedXML.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ExcelNumberFormat.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.pdb
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\SixLabors.Fonts.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Packaging.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.xml
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.G.DA366080.Up2Date
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormChangePassword.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateUser.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormDeleteUser.resources
+E:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormModifyUserAccess.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe.config
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ClosedXML.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.Interfaces.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.System.Drawing.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ExcelNumberFormat.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Irony.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\SixLabors.Fonts.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Packaging.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\XLParser.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.dll
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll.config
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll.config
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll.config
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ClosedXML.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ExcelNumberFormat.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.pdb
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\SixLabors.Fonts.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Packaging.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.xml
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.AssemblyReference.cache
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AboutBox.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AT_Tools.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CH_PrivateChat.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Invoice.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Sale.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager_Contact.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerBalance.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerHistory.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_ItemFinder.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_LinkedSaleSelector.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormRegistroOrdenSellos.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormChangePassword.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormAddUsersToGroup.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormModifyUserAccess.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormChatWindow.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateGroupChat.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateUser.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormDeleteUser.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormEditGroupName.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormGroupChats.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormIngresoEgreso.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormTipoCheque.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ISN_IssuedNote.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_ControlTicket.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login_NetworkSettings.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.NotificationCenter.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_ContactSelector.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_LinkEstimate.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_RepairOrder.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_OrderUpdate.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_ProgressManager.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input_InputSearcher.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_InvoiceManager.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Concept.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Product.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_QuickSearch.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_CurrencyConverter.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product_AutoFormat.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_PercentageAdjustment.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.EX_Expense.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_Input.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_InputHistory.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice_PurchaseOrder.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Concept.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_PurchaseOrder.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_Payment.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_PurchaseInvoice.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager_Contact.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_CurrentAccount.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_RecordShipment.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice_Sale.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_CalendarDayView.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_ContactSelector.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory_DetailedHistory.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNoteManager.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNote.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Concept.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Estimate.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_Customer.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_MailPreview.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ManageAttachments.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_Provider.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_TextBox.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_HtmlEditor.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertCustomerInformation.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertProviderInformation.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_Task.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ViewSettings.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Main.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_Product.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Properties.Resources.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Sale.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_Settings.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_TaskSelector.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TR_TechReport.resources
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.GenerateResource.cache
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CoreCompileInputs.cache
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.G.DA366080.Up2Date
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.exe
+D:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe.config
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ClosedXML.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.Interfaces.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.System.Drawing.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ExcelNumberFormat.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Irony.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\SixLabors.Fonts.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Packaging.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\XLParser.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.dll
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll.config
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Shared.dll.config
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.DbLayer.dll.config
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\BouncyCastle.Crypto.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ClosedXML.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Common.Logging.Core.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\EPPlus.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\ExcelNumberFormat.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Google.Protobuf.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.barcodes.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.commons.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.forms.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.html2pdf.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.io.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.kernel.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.layout.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.pdfa.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.sign.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.styledxmlparser.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\itext.svg.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\K4os.Hash.xxHash.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\MySql.Data.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Newtonsoft.Json.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\SixLabors.Fonts.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Buffers.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Packaging.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.IO.Pipelines.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Memory.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Numerics.Vectors.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\System.ValueTuple.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Dapper.xml
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.AssemblyReference.cache
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AboutBox.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AT_Tools.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CH_PrivateChat.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Invoice.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Sale.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager_Contact.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerBalance.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerHistory.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_ItemFinder.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_LinkedSaleSelector.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormChangePassword.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormAddUsersToGroup.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormModifyUserAccess.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormChatWindow.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateGroupChat.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateUser.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormDeleteUser.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormEditGroupName.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormGroupChats.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormIngresoEgreso.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormTipoCheque.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ISN_IssuedNote.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_ControlTicket.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login_NetworkSettings.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.NotificationCenter.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_ContactSelector.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_LinkEstimate.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_RepairOrder.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_OrderUpdate.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.RO_ProgressManager.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input_InputSearcher.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_InvoiceManager.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Concept.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Product.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_QuickSearch.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_CurrencyConverter.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product_AutoFormat.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_PercentageAdjustment.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.EX_Expense.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_Input.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.IN_InputHistory.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice_PurchaseOrder.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Concept.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PO_PurchaseOrder.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_Payment.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_PurchaseInvoice.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager_Contact.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_CurrentAccount.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_RecordShipment.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice_Sale.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_CalendarDayView.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_ContactSelector.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory_DetailedHistory.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNoteManager.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNote.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Concept.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ES_Estimate.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CU_Customer.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_MailPreview.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ManageAttachments.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PV_Provider.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_TextBox.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_HtmlEditor.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertCustomerInformation.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertProviderInformation.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_Task.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ViewSettings.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Login.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Main.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.PR_Product.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.Properties.Resources.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SA_Sale.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.ST_Settings.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TK_TaskSelector.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.TR_TechReport.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.GenerateResource.cache
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CoreCompileInputs.cache
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.G.DA366080.Up2Date
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.exe
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.pdb
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormCustomerPayments.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.exe.manifest
+G:\clobver\Clover.Gestion\Clover.Gestion\bin\Release\Clover.Gestion.application
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.exe.manifest
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.application
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.SellosForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormSeleccionarFecha.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CRM_MAIN.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.LeadCard.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.LeadForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.AgregarCompraForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CalificacionDetalleForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.CierreForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.DelegarForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FiltrosAvanzadosForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.HistorialComprasForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.InformesForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.LeadsCalificacionForm.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.LeadsCerradosForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Gestion.exe.config
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Gestion.exe.manifest
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Gestion.application
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Gestion.exe
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Gestion.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\ClosedXML.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.DbLayer.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Shared.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Common.Logging.Core.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Common.Logging.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\EPPlus.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\EPPlus.Interfaces.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\ExcelNumberFormat.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Google.Protobuf.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Irony.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.barcodes.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.commons.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.forms.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.html2pdf.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.io.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.kernel.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.layout.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.pdfa.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.sign.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.styledxmlparser.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.svg.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\MySql.Data.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Newtonsoft.Json.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\SixLabors.Fonts.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Buffers.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.IO.Packaging.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.IO.Pipelines.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Memory.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Numerics.Vectors.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.ValueTuple.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\XLParser.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Dapper.dll
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.HtmlEditor.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.HtmlEditor.dll.config
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Shared.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.Shared.dll.config
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.DbLayer.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Clover.DbLayer.dll.config
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\ClosedXML.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Common.Logging.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Common.Logging.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Common.Logging.Core.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Common.Logging.Core.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\EPPlus.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\ExcelNumberFormat.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Google.Protobuf.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Google.Protobuf.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.barcodes.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.bouncy-castle-adapter.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.bouncy-castle-connector.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.commons.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.forms.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.html2pdf.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.io.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.kernel.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.layout.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.pdfa.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.sign.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.styledxmlparser.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\itext.svg.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\MySql.Data.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Newtonsoft.Json.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\SixLabors.Fonts.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Buffers.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.IO.Packaging.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.IO.Pipelines.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Memory.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Numerics.Vectors.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\System.ValueTuple.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\bin\Release\Dapper.xml
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.csproj.AssemblyReference.cache
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.AboutBox.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.AgregarCompraForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.AT_Tools.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CalificacionDetalleForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CH_PrivateChat.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CierreForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Invoice.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CP_CustomerPayment_Sale.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CRM_MAIN.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager_Contact.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerBalance.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CU_CustomerHistory.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.DelegarForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_ItemFinder.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_LinkedSaleSelector.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FiltrosAvanzadosForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormSeleccionarFecha.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.HistorialComprasForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.InformesForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.LeadCard.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.LeadForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.LeadsCalificacionForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.LeadsCerradosForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SellosForm.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormChangePassword.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormAddUsersToGroup.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormCustomerPayments.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormModifyUserAccess.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormChatWindow.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateGroupChat.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormCreateUser.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormDeleteUser.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormEditGroupName.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormGroupChats.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormIngresoEgreso.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormTipoCheque.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ISN_IssuedNote.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_ControlTicket.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.Login_NetworkSettings.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.NotificationCenter.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PO_ContactSelector.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.RO_LinkEstimate.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.RO_RepairOrder.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.RO_OrderUpdate.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.RO_ProgressManager.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input_InputSearcher.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_InvoiceManager.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Concept.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_Items_Product.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SHA_QuickSearch.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_CurrencyConverter.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product_AutoFormat.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_PercentageAdjustment.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.EX_Expense.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.IN_Input.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.IN_InputHistory.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PI_PurchaseInvoice_PurchaseOrder.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Concept.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PO_Items_Input.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PO_PurchaseOrder.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_Payment.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PP_PayOrder_PurchaseInvoice.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PV_ContactManager_Contact.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PV_CurrentAccount.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_RecordShipment.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SI_SaleInvoice_Sale.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.TK_CalendarDayView.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_ContactSelector.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CU_ContactManager.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory_DetailedHistory.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNoteManager.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_DeliveryNote.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Concept.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_Items_Product.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ES_Estimate.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.CU_Customer.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SHA_MailPreview.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ManageAttachments.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PR_ProductHistory.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PV_Provider.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SHA_TextBox.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ST_HtmlEditor.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertCustomerInformation.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.TK_InsertProviderInformation.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.TK_Task.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SHA_ViewSettings.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.Login.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.Main.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.PR_Product.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.Properties.Resources.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.SA_Sale.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.ST_Settings.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.TK_TaskSelector.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.TR_TechReport.resources
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.csproj.GenerateResource.cache
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.csproj.CoreCompileInputs.cache
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.exe.manifest
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.application
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.G.DA366080.Up2Date
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.exe
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.pdb
+C:\Users\nahue\OneDrive\Documentos\GitHub\Clover-20250118T015353Z-001\Clover\Clover.Gestion\obj\Release\Clover.Gestion.FormRemoveUser.resources
+G:\clobver\Clover.Gestion\Clover.Gestion\obj\Release\Clover.Gestion.FormRemoveUser.resources

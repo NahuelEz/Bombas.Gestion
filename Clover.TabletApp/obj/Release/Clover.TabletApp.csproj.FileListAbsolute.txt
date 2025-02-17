@@ -1,0 +1,257 @@
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.CameraUtility.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_OrderUpdate.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Login.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Main.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_ProgressManager.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.QuickSearch.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_RepairOrder.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Properties.Resources.resources
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.GenerateResource.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.CopyComplete
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.exe
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.CameraUtility.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_OrderUpdate.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Login.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Main.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_ProgressManager.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.QuickSearch.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_RepairOrder.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Properties.Resources.resources
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.GenerateResource.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.T.725D55D1.Up2Date
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.exe
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.pdb
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe.config
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.pdb
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.dll
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.pdb
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll.config
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.pdb
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll.config
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.pdb
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.xml
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.AssemblyReference.cache
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.CameraUtility.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_OrderUpdate.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Login.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Main.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_ProgressManager.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.QuickSearch.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_RepairOrder.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Properties.Resources.resources
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.GenerateResource.cache
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.CoreCompileInputs.cache
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.T.725D55D1.Up2Date
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.exe
+E:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.pdb
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe.config
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.exe
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.TabletApp.pdb
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.dll
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.pdb
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.Shared.dll.config
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.pdb
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Clover.DbLayer.dll.config
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Controls.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Imaging.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Math.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\AForge.Video.DirectShow.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\BouncyCastle.Crypto.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.pdb
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Google.Protobuf.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Compression.LZ4.Streams.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\K4os.Hash.xxHash.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\MySql.Data.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Buffers.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.IO.Pipelines.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Memory.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Numerics.Vectors.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\System.Threading.Tasks.Extensions.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Newtonsoft.Json.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\bin\Release\Dapper.xml
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.AssemblyReference.cache
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.CameraUtility.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_OrderUpdate.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Login.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Main.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_ProgressManager.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.QuickSearch.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.RO_RepairOrder.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.Properties.Resources.resources
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.GenerateResource.cache
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.csproj.CoreCompileInputs.cache
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.T.725D55D1.Up2Date
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.exe
+G:\clobver\Clover.Gestion\Clover.TabletApp\obj\Release\Clover.TabletApp.pdb

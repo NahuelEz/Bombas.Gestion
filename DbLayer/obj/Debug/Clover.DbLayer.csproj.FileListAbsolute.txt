@@ -1,0 +1,144 @@
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Dapper.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Memory.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Dapper.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Memory.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.CopyComplete
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Dapper.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Memory.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Dapper.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Memory.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\obj\Debug\Clover.D.1FADD5DA.Up2Date
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.pdb
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll.config
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.pdb
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Dapper.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Memory.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Dapper.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.pdb
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Memory.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.AssemblyReference.cache
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.CoreCompileInputs.cache
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.D.1FADD5DA.Up2Date
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.dll
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.pdb
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.UserSelectionForm.resources
+E:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.GenerateResource.cache
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll.config
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Clover.DbLayer.pdb
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Dapper.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Memory.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\BouncyCastle.Crypto.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Dapper.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.pdb
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\Google.Protobuf.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\K4os.Hash.xxHash.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\MySql.Data.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Buffers.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.IO.Pipelines.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Memory.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Numerics.Vectors.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\clobver\Clover.Gestion\DbLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.AssemblyReference.cache
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.UserSelectionForm.resources
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.GenerateResource.cache
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.csproj.CoreCompileInputs.cache
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.D.1FADD5DA.Up2Date
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.dll
+G:\clobver\Clover.Gestion\DbLayer\obj\Debug\Clover.DbLayer.pdb

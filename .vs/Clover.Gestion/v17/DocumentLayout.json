@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\clobver\\Clover.Gestion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266A4A3D-2DDC-4DD0-BC91-F23C28CE6B99}|Clover.Gestion\\Clover.Gestion.csproj|g:\\clobver\\clover.gestion\\clover.gestion\\helpers\\pdfgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A4A3D-2DDC-4DD0-BC91-F23C28CE6B99}|Clover.Gestion\\Clover.Gestion.csproj|solutionrelative:clover.gestion\\helpers\\pdfgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BAB54E-AE3B-40AC-B463-A8357B6DFBD4}|Clover.TabletApp\\Clover.TabletApp.csproj|G:\\clobver\\Clover.Gestion\\clover.tabletapp\\camerautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BAB54E-AE3B-40AC-B463-A8357B6DFBD4}|Clover.TabletApp\\Clover.TabletApp.csproj|solutionrelative:clover.tabletapp\\camerautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A4A3D-2DDC-4DD0-BC91-F23C28CE6B99}|Clover.Gestion\\Clover.Gestion.csproj|G:\\clobver\\Clover.Gestion\\clover.gestion\\crm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{266A4A3D-2DDC-4DD0-BC91-F23C28CE6B99}|Clover.Gestion\\Clover.Gestion.csproj|solutionrelative:clover.gestion\\crm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A4A3D-2DDC-4DD0-BC91-F23C28CE6B99}|Clover.Gestion\\Clover.Gestion.csproj|G:\\clobver\\Clover.Gestion\\clover.gestion\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A4A3D-2DDC-4DD0-BC91-F23C28CE6B99}|Clover.Gestion\\Clover.Gestion.csproj|solutionrelative:clover.gestion\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BAB54E-AE3B-40AC-B463-A8357B6DFBD4}|Clover.TabletApp\\Clover.TabletApp.csproj|G:\\clobver\\Clover.Gestion\\clover.tabletapp\\camerautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37BAB54E-AE3B-40AC-B463-A8357B6DFBD4}|Clover.TabletApp\\Clover.TabletApp.csproj|solutionrelative:clover.tabletapp\\camerautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRM_MAIN.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\clobver\\Clover.Gestion\\Clover.Gestion\\CRM_MAIN.cs",
+              "RelativeDocumentMoniker": "Clover.Gestion\\CRM_MAIN.cs",
+              "ToolTip": "G:\\clobver\\Clover.Gestion\\Clover.Gestion\\CRM_MAIN.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clover.Gestion\\CRM_MAIN.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:01:26.488Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfGeneration.cs",
+              "DocumentMoniker": "G:\\clobver\\Clover.Gestion\\Clover.Gestion\\Helpers\\PdfGeneration.cs",
+              "RelativeDocumentMoniker": "Clover.Gestion\\Helpers\\PdfGeneration.cs",
+              "ToolTip": "G:\\clobver\\Clover.Gestion\\Clover.Gestion\\Helpers\\PdfGeneration.cs",
+              "RelativeToolTip": "Clover.Gestion\\Helpers\\PdfGeneration.cs",
+              "ViewState": "AgIAAO8DAAAAAAAAAAAiwCgEAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:24:33.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "G:\\clobver\\Clover.Gestion\\Clover.Gestion\\Main.cs",
+              "RelativeDocumentMoniker": "Clover.Gestion\\Main.cs",
+              "ToolTip": "G:\\clobver\\Clover.Gestion\\Clover.Gestion\\Main.cs",
+              "RelativeToolTip": "Clover.Gestion\\Main.cs",
+              "ViewState": "AgIAAOEHAAAAAAAAAAAawPEHAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:58:59.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraUtility.cs",
+              "DocumentMoniker": "G:\\clobver\\Clover.Gestion\\Clover.TabletApp\\CameraUtility.cs",
+              "RelativeDocumentMoniker": "Clover.TabletApp\\CameraUtility.cs",
+              "ToolTip": "G:\\clobver\\Clover.Gestion\\Clover.TabletApp\\CameraUtility.cs",
+              "RelativeToolTip": "Clover.TabletApp\\CameraUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:49:37.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraUtility.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\clobver\\Clover.Gestion\\Clover.TabletApp\\CameraUtility.cs",
+              "RelativeDocumentMoniker": "Clover.TabletApp\\CameraUtility.cs",
+              "ToolTip": "G:\\clobver\\Clover.Gestion\\Clover.TabletApp\\CameraUtility.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clover.TabletApp\\CameraUtility.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:30:19.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

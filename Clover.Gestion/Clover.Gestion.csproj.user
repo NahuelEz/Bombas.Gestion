@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\nahue\OneDrive\Escritorio\|C:\Users\nahue\OneDrive\Documentos\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://www.dropbox.com/scl/fo/zmurav7ojltalqaw4g9c2/APUwL_rDTIVV_M34dU2icD8%3frlkey=mmaqnji754e2vx4w6ws9mmv3u&amp;st=nvdros4d&amp;dl=0/|https://www.dropbox.com/scl/fo/hfa9wpkukv3neg8gglw12/AMiDejM2FwvoiUjv_U6e0WM%3frlkey=2ky4yw6wzo74u5596xggawq7c&amp;st=0t315jup&amp;dl=0/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,130 @@
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.exe.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.exe
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\MySql.Data.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Dapper.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Memory.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.IO.Pipelines.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Buffers.dll
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.dll.config
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\MySql.Data.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Dapper.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.pdb
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Memory.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.IO.Pipelines.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\bin\Release\System.Buffers.xml
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.CopyComplete
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.exe
+C:\Users\Agustin\Documents\Visual Studio 2022\Projects\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.exe.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.exe
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Newtonsoft.Json.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\MySql.Data.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Dapper.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Memory.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.IO.Pipelines.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Buffers.dll
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.dll.config
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Newtonsoft.Json.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\MySql.Data.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Dapper.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.pdb
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Memory.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.IO.Pipelines.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\bin\Release\System.Buffers.xml
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.B.D563D586.Up2Date
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.exe
+C:\Users\Agustin\Desktop\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.pdb
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.exe.config
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.exe
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.BackupTask.pdb
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\BouncyCastle.Crypto.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.Streams.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Hash.xxHash.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\MySql.Data.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Buffers.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.IO.Pipelines.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Memory.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Numerics.Vectors.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Threading.Tasks.Extensions.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Newtonsoft.Json.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Dapper.dll
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.pdb
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.Shared.dll.config
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\BouncyCastle.Crypto.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.pdb
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Google.Protobuf.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Compression.LZ4.Streams.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\K4os.Hash.xxHash.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\MySql.Data.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Buffers.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.IO.Pipelines.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Memory.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Numerics.Vectors.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\System.Threading.Tasks.Extensions.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.pdb
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Clover.DbLayer.dll.config
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Newtonsoft.Json.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\bin\Release\Dapper.xml
+E:\clobver\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.AssemblyReference.cache
+E:\clobver\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.csproj.CoreCompileInputs.cache
+E:\clobver\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.B.D563D586.Up2Date
+E:\clobver\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.exe
+E:\clobver\Clover.Gestion\Clover.BackupTask\obj\Release\Clover.BackupTask.pdb

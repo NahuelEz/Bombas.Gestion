@@ -1,0 +1,360 @@
+04/09/24 16:17:51 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 11:35:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 14:09:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 14:30:32 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 14:47:36 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:03:59 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:10:18 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:19:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:22:24 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:25:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:26:34 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:33:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:33:27 : Exception at Waypoint CP102 (Flag: MySQL). Message: La secuencia contiene más de un elemento coincidente
+05/09/24 15:33:33 : Exception at Waypoint CP102 (Flag: MySQL). Message: La secuencia contiene más de un elemento coincidente
+05/09/24 15:34:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 15:59:21 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:03:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:05:15 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:21:34 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:25:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:32:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:38:27 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:44:31 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 16:48:10 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 17:09:55 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 17:10:06 : Exception at Waypoint CP102 (Flag: MySQL). Message: Unknown column 'customer_payment.FechaChqueDiferido' in 'field list'
+05/09/24 17:10:48 : Exception at Waypoint CP102 (Flag: MySQL). Message: Unknown column 'customer_payment.FechaChqueDiferido' in 'field list'
+05/09/24 17:27:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 22:07:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 22:14:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 22:19:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 22:21:19 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 22:24:47 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/09/24 22:35:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 00:29:36 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 00:35:49 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 00:40:40 : Exception at Waypoint LI003 (Flag: MySql). Message: La secuencia contiene más de un elemento
+06/09/24 00:40:51 : Exception at Waypoint LI003 (Flag: MySql). Message: La secuencia contiene más de un elemento
+06/09/24 00:40:56 : Exception at Waypoint LI003 (Flag: MySql). Message: La secuencia contiene más de un elemento
+06/09/24 00:42:00 : Exception at Waypoint MA101. Message: Se produjo una excepción en el destino de la invocación.
+06/09/24 00:42:16 : Exception at Waypoint MA101. Message: Se produjo una excepción en el destino de la invocación.
+06/09/24 00:42:37 : Exception at Waypoint MA101. Message: Se produjo una excepción en el destino de la invocación.
+06/09/24 00:43:46 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 00:58:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:06:27 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:07:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:09:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:10:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:11:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:22:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:23:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:24:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:37:49 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:43:12 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:47:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:50:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:51:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 01:58:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 02:00:46 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 02:01:35 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 02:11:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 10:01:44 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 10:06:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 10:17:25 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 10:19:32 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:03:37 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:08:29 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:11:43 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:15:50 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:20:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:24:19 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:25:50 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 14:33:14 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 15:05:09 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 15:21:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 15:25:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 15:26:43 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 15:30:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 15:42:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:00:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:01:48 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:02:13 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:07:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:08:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:08:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:10:53 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/09/24 16:11:05 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+29/09/24 08:33:38 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:33:49 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:34:40 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:35:16 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:36:47 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:38:35 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:42:06 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+29/09/24 08:44:17 : Exception at Waypoint LI003 (Flag: MySql). Message: Authentication to host 'localhost' for user 'sellosmec' using method 'caching_sha2_password' failed with message: Access denied for user 'sellosmec'@'localhost' (using password: YES)
+01/10/24 11:38:45 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+01/10/24 11:58:03 : Exception at Waypoint CU201 (Flag: MySQL). Message: Table 'geo_db.country' doesn't exist
+04/10/24 16:51:29 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 00:52:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 01:17:07 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 01:22:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 01:27:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 01:52:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 02:44:12 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 02:47:32 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 02:53:50 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 02:59:05 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 03:08:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 03:20:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 03:54:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:06:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:20:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:24:19 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:26:50 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:33:32 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:35:00 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:36:39 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:38:49 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:50:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:53:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:55:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:57:18 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 04:59:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 05:01:07 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+05/10/24 05:03:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 12:19:57 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 12:58:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 13:35:36 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 13:37:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 13:46:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 16:26:26 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/10/24 21:27:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 00:42:35 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 00:45:41 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 00:57:45 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 01:01:48 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 01:03:15 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 01:29:43 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 01:31:19 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+07/10/24 01:42:15 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+08/10/24 04:37:19 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+08/10/24 04:42:17 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 05:15:11 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 05:17:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 05:19:57 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 13:36:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 13:46:00 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 13:54:44 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:11:44 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:18:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:21:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:22:31 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:22:49 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:23:23 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:27:29 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:33:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:40:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:43:32 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:55:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 14:59:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:09:56 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:20:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:31:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:36:37 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:42:14 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:43:45 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:50:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 15:56:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:00:54 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:05:41 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:12:59 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:24:39 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:33:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:36:23 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:42:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:45:27 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:48:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 16:54:29 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 17:04:10 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 17:05:25 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 17:09:00 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 17:14:51 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+09/10/24 17:27:47 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/10/24 08:58:33 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/10/24 23:52:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 00:25:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 05:13:10 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 05:15:25 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 05:20:12 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 05:24:41 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 05:26:49 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 05:30:09 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 13:44:59 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 13:46:25 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 13:54:07 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 13:59:55 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 14:05:17 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:00:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:02:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:13:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:38:13 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:42:55 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:44:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:47:21 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:52:13 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+14/10/24 16:55:05 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 00:38:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 00:46:12 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 01:03:17 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 01:04:59 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 03:33:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 09:38:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 15:22:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 16:38:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 16:45:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 20:39:35 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 20:43:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 20:46:18 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 20:50:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 20:53:32 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 20:57:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 21:01:59 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 21:06:07 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/10/24 21:08:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 06:16:51 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 06:40:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 06:49:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 06:55:59 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 06:56:31 : Exception at Waypoint PV201 (Flag: MySQL). Message: Table 'geo_db.country' doesn't exist
+16/10/24 10:00:13 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 10:10:20 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 10:42:58 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 10:48:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 13:48:50 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 13:49:39 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 13:50:13 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 13:50:17 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:05:14 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:05:16 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:10:19 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:11:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:15:58 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:16:00 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:16:35 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:16:44 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:21:21 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:21:52 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:21:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:26:37 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:26:37 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:28:36 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:38:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:38:38 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:39:27 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:39:33 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:45:12 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:49:00 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:49:00 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:52:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:54:46 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:57:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:57:32 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:57:36 : Exception at Waypoint ST001 (Flag: MySQL). Message: La secuencia no contiene elementos
+16/10/24 14:58:06 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 14:59:35 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 15:02:39 : Error en servidor MySQL: La secuencia no contiene elementos. Usuario: 40
+16/10/24 15:02:40 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 15:03:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+16/10/24 15:40:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+17/10/24 04:57:58 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+17/10/24 05:51:44 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+17/10/24 05:53:17 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+18/10/24 10:00:37 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+28/10/24 20:03:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+28/10/24 20:06:41 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+28/10/24 20:07:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+29/10/24 13:13:48 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+29/10/24 13:30:57 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+29/10/24 13:38:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+15/11/24 06:54:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 07:50:58 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 07:53:58 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 08:00:44 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 10:02:29 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 10:03:34 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 10:05:27 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 10:08:34 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 10:16:31 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/12/24 10:23:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/12/24 13:35:03 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/12/24 13:48:01 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/12/24 18:30:26 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/12/24 18:37:28 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/12/24 18:38:08 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+10/12/24 22:40:18 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+11/12/24 10:05:33 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+11/12/24 10:06:42 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 05:33:04 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 05:33:16 : Error en FiltrarVentas: La secuencia no contiene ningún elemento coincidente - StackTrace:    en System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   en Clover.Gestion.Main.<EjecutarBusqueda>d__38.MoveNext() en G:\clobver\Clover.Gestion\Clover.Gestion\Main.cs:línea 1121
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en Clover.Gestion.Main.<FiltrarVentas>d__36.MoveNext() en G:\clobver\Clover.Gestion\Clover.Gestion\Main.cs:línea 1073
+13/12/24 05:33:20 : Error en FiltrarVentas: La secuencia no contiene ningún elemento coincidente - StackTrace:    en System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   en Clover.Gestion.Main.<EjecutarBusqueda>d__38.MoveNext() en G:\clobver\Clover.Gestion\Clover.Gestion\Main.cs:línea 1121
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en Clover.Gestion.Main.<FiltrarVentas>d__36.MoveNext() en G:\clobver\Clover.Gestion\Clover.Gestion\Main.cs:línea 1073
+13/12/24 05:38:26 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 05:42:26 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 05:42:39 : Exception at Waypoint RO105 (Flag: MySQL). Message: Unknown column 'repair_order.Customer' in 'where clause'
+13/12/24 05:48:53 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 05:58:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 06:00:22 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 09:21:06 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:06:23 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:10:34 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:11:24 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:12:21 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:13:05 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:17:36 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:21:48 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:27:12 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 14:33:16 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 15:16:24 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+13/12/24 15:17:14 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+24/12/24 12:35:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+27/12/24 00:44:39 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+30/12/24 07:41:17 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+30/12/24 13:56:33 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+30/12/24 13:58:25 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+30/12/24 13:59:10 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+31/12/24 06:09:37 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+01/01/25 21:21:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+03/01/25 18:38:15 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 08:45:30 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 08:48:38 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 08:53:53 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 09:06:31 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 09:06:36 : Exception at Waypoint CU201 (Flag: MySQL). Message: Table 'geo_db.country' doesn't exist
+06/01/25 09:06:38 : Exception at Waypoint CU203 (Flag: MySQL). Message: Table 'geo_db.district' doesn't exist
+06/01/25 09:17:52 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 09:19:33 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 21:03:02 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+06/01/25 21:03:11 : Exception at Waypoint CU201 (Flag: MySQL). Message: Table 'geo_db.country' doesn't exist
+06/01/25 21:03:49 : Exception at Waypoint CU201 (Flag: MySQL). Message: Table 'geo_db.country' doesn't exist
+06/01/25 21:04:02 : Exception at Waypoint CU201 (Flag: MySQL). Message: Table 'geo_db.country' doesn't exist
+06/01/25 21:04:04 : Exception at Waypoint CU203 (Flag: MySQL). Message: Table 'geo_db.district' doesn't exist
+07/01/25 18:58:23 : Exception at Waypoint LI003 (Flag: MySql). Message: Unable to connect to any of the specified MySQL hosts.
+07/01/25 18:58:24 : Exception at Waypoint LI003 (Flag: MySql). Message: Unable to connect to any of the specified MySQL hosts.
+07/01/25 18:58:24 : Exception at Waypoint LI003 (Flag: MySql). Message: Unable to connect to any of the specified MySQL hosts.
+07/01/25 18:58:25 : Exception at Waypoint LI003 (Flag: MySql). Message: Unable to connect to any of the specified MySQL hosts.
+08/01/25 09:24:18 : Exception at Waypoint LI003 (Flag: MySql). Message: Unable to connect to any of the specified MySQL hosts.
+08/01/25 09:24:26 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+08/01/25 09:42:12 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678
+08/01/25 09:43:45 : Exception at Waypoint CH104. Message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión [::ffff:127.0.0.1]:5678

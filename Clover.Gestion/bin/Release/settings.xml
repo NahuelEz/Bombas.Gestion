@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MySqlServerIP>localhost</MySqlServerIP>
+  <MySqlServerPort>3306</MySqlServerPort>
+  <DatabaseName>sellosmec_db_v2</DatabaseName>
+  <MySqlUserName>sellosmec</MySqlUserName>
+  <MySqlUserPassword>c2VsbG9zbWVj</MySqlUserPassword>
+  <ChatServerIP>127.0.0.1</ChatServerIP>
+  <ChatServerPort>5678</ChatServerPort>
+  <PdfDocumentsFolder />
+  <PdfKeepItemTogether>Yes</PdfKeepItemTogether>
+  <LastUserName>javier</LastUserName>
+  <StartTabIndex>0</StartTabIndex>
+  <StartSubtabIndex>0</StartSubtabIndex>
+  <NotifyOnRepairOrderAdded>false</NotifyOnRepairOrderAdded>
+  <BackupEnabled>false</BackupEnabled>
+  <BackupFrecuency xsi:nil="true" />
+</Settings>
